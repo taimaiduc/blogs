@@ -3,7 +3,7 @@
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 
 
-
+![enter image description here](https://i.pinimg.com/originals/bf/d3/db/bfd3db6585a73b3e0d201e410c79efb1.gif)
 
 # Files
 
@@ -144,5 +144,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY0Nzg3ODA5LC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbLTMyNzAzMTg2OSwtMzMyNDU1MzYzXX0=
 -->
