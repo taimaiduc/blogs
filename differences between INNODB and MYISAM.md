@@ -1,10 +1,4 @@
-The most commonly used storage engine in MySQL are MyISAM and InnoDB.
-
-
-With these storage engine there are some advantages and disadvantages.
-
-
-As you all know, the default storage engine chosen by MySQL database is MyISAM.
+The most commonly used storage engine in MySQL are MyISAM and InnoDB. With these storage engine there are some advantages and disadvantages. As you all know, the default storage engine chosen by MySQL database is MyISAM.
 
 
 The main difference between MyISAM and INNODB are :
